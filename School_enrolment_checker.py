@@ -25,4 +25,4 @@ else:
 #This program follows the KISS principle as it is simple and easy to understand. It also follows the DRY principle as it does not repeat any code. It also follows the YAGNI principle as it does not include any unnecessary features.
 #It has meaningful variable names such as distance, age etc.
 #It also has a clear and concise output. 
-#One improvement would be to add input validation, to make sure the user enter numbers for age and distance.
+
