@@ -7,8 +7,8 @@ age=int(input("How old are you?"))
 right_to_stay=input("Do you have the right to stay in New Zealand? (yes/no):")
 international_fees=input("Will you pay international student fees? (yes/no):")
 
-#Check the enrolment conditions using if, elif and else (KISS principle)
-#Use 'and' to check multiple conditions at once (DRY principle)
+#Check the enrolment conditions
+#Use 'and' to check multiple conditions at once 
 if age<18 and international_fees=="yes":
     print("You can enrol.")
 elif distance<4 and age<18 and right_to_stay=="yes":
