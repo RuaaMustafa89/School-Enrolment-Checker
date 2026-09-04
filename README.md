@@ -1,4 +1,4 @@
-The School Enrolment Checker uses KISS (Keep It Simple Stupid) principle, as the program uses if, elif and else statements to check if the student can enrol.
+The School Enrolment Checker program uses KISS (Keep It Simple Stupid) principle, as the program uses if, elif and else statements to check if the student can enrol.
 The program also uses 'and' to check multiple conditions at once (DRY principle).
 The code is easy to read as it has meaningful variable names such as age, distance, right_to_stay etc.
 The program then asks the user to enter information (distance, age, right to stay in New Zealand and about international student fees).
