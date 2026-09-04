@@ -1,4 +1,6 @@
 #School Enrolment Checker
+#This program checks whether a student meets the requirements to enrol in a school
+
 print("school enrolment checker")
 
 #Get the student's information from the user
